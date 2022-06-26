@@ -1,0 +1,21 @@
+{
+  "name": "npm-course",
+  "version": "1.0.0",
+  "description": "Construir un paquete para node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sayroback@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "webpack": "^5.73.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.28.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
